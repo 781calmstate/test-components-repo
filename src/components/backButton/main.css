@@ -1,0 +1,30 @@
+.back-button {
+  flex-shrink: 0;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  column-gap: 0.625rem;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  font-size: 1.5625rem;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.01563rem;
+  font-family: 'UZ Sans', sans-serif;
+}
+
+.back-button--blue {
+  background-image: linear-gradient(180deg, #009de2 0%, #27348b 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.back-button--black {
+  color: #151515;
+}
+
+.back-button--orange {
+  color: #f9a818;
+}
