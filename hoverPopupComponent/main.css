@@ -1,0 +1,13 @@
+.popup-component {
+  position: fixed;
+  display: none;
+  word-wrap: break-word;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  color: #151515;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+}
