@@ -1,2 +1,2 @@
 export { HoverPopup } from "./hoverPopup/HoverPopup";
-export { BackButton } from "./backButton/backButton";
+export { BackButton } from "./backButton/BackButton";
