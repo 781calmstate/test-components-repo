@@ -1,1 +1,1 @@
-import { BackButton } from "./backButton";
+export { BackButton } from "./backButton";

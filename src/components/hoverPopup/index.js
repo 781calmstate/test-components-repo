@@ -1,1 +1,1 @@
-import { HoverPopup } from "./HoverPopup.js";
+export { HoverPopup } from "./HoverPopup.js";
